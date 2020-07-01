@@ -10,5 +10,6 @@
 ## About project
 <h1> MVC_Laravel</h1>
     <p> Estrutura de estudo para desenvolvimento de sistemas em MVC com framework Laravel.<br>
-        O desenvolvimneto de uma empresa de gestão administrativa de entidades de ensino.        
+        O desenvolvimento do projeto visa a criação de uma ferramenta para empresas e entidades de ensino, voltada, no primeiro estágio, para a gestão administrativa.        
     </p>
+    
