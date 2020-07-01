@@ -7,7 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## about project
+## About project
 <h1> MVC_Laravel</h1>
-    <p> Estrutura de estudos para desenvolvimento de sistemas em MVC com framework Laravel.
+    <p> Estrutura de estudo para desenvolvimento de sistemas em MVC com framework Laravel.<br>
+        O desenvolvimneto de uma empresa de gestão administrativa de entidades de ensino.        
     </p>
